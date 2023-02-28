@@ -5,12 +5,12 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-uuidone=0e8cc52e-caf5-44aa-90c1-697e49fd8887
-uuidtwo=56a697d8-3fcd-4cf0-859c-9ab1b5df58df
-uuidthree=fbcfc0ba-76ce-4fb6-a61a-ed239b70b802
-uuidfour=50da9c1f-bf7a-47fa-b933-f7ad52161d41
-uuidfive=281204fe-1c43-4d9d-8727-b2ba90fc9863
-mypath=/file-myfile
+uuidone=3de305d8-f1e1-4267-9eda-0d1e82890dad
+uuidtwo=33740a0f-777f-4ec6-97cb-1a968e9ca59c
+uuidthree=382f4671-1656-4c3d-b45c-b903a82f7c74
+uuidfour=7ffbae9e-0779-4992-ada4-5579a6810cfa
+uuidfive=437fbaa1-87df-421c-9f4d-8eae31501828
+mypath=/fost-myfost
 myport=8080
 
 
